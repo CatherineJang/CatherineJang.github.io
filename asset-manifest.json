@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CatherineJang.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/CatherineJang.github.io/static/js/main.31707ce9.js",
+    "static/js/787.b0c3c4a9.chunk.js": "/CatherineJang.github.io/static/js/787.b0c3c4a9.chunk.js",
+    "static/media/logo.svg": "/CatherineJang.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CatherineJang.github.io/index.html",
+    "main.073c9b0a.css.map": "/CatherineJang.github.io/static/css/main.073c9b0a.css.map",
+    "main.31707ce9.js.map": "/CatherineJang.github.io/static/js/main.31707ce9.js.map",
+    "787.b0c3c4a9.chunk.js.map": "/CatherineJang.github.io/static/js/787.b0c3c4a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.31707ce9.js"
+  ]
+}
