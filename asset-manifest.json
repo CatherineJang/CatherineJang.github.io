@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CatherineJang.github.io/static/css/main.cb24ed6d.css",
-    "main.js": "/CatherineJang.github.io/static/js/main.8837109e.js",
-    "static/js/787.b0c3c4a9.chunk.js": "/CatherineJang.github.io/static/js/787.b0c3c4a9.chunk.js",
-    "index.html": "/CatherineJang.github.io/index.html",
-    "main.cb24ed6d.css.map": "/CatherineJang.github.io/static/css/main.cb24ed6d.css.map",
-    "main.8837109e.js.map": "/CatherineJang.github.io/static/js/main.8837109e.js.map",
-    "787.b0c3c4a9.chunk.js.map": "/CatherineJang.github.io/static/js/787.b0c3c4a9.chunk.js.map"
+    "main.css": "/static/css/main.cb24ed6d.css",
+    "main.js": "/static/js/main.21453a12.js",
+    "static/js/787.b0c3c4a9.chunk.js": "/static/js/787.b0c3c4a9.chunk.js",
+    "index.html": "/index.html",
+    "main.cb24ed6d.css.map": "/static/css/main.cb24ed6d.css.map",
+    "main.21453a12.js.map": "/static/js/main.21453a12.js.map",
+    "787.b0c3c4a9.chunk.js.map": "/static/js/787.b0c3c4a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb24ed6d.css",
-    "static/js/main.8837109e.js"
+    "static/js/main.21453a12.js"
   ]
 }
