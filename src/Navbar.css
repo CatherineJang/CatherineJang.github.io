@@ -1,0 +1,28 @@
+.navbar{
+    padding-top: 10px;
+    background-color: lightskyblue;
+    background-size: cover;
+    font-size: medium;
+    width:available;
+}
+.navbutton{
+    padding: 15px;
+    border: none;
+    background: none;
+    font-family: "Neutra Text";
+    font-size: xx-large;
+    text-align: right;
+}
+
+.navbutton:hover {
+    text-decoration:underline;
+}
+
+.namebutton{
+    padding-right: 28px;
+    border: none;
+    background: none;
+    font-family: "Neutra Text";
+    font-size: xxx-large;
+    text-align: right;
+}

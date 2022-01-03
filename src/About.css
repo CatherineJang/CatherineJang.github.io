@@ -1,0 +1,18 @@
+.aboutcontent{
+    display: flex;
+    flex-direction: row;
+    padding:20px;
+}
+.abouttxt{
+    min-width:0;
+    width:75%;
+    font-family: Arial;
+    font-size: large;
+}
+.aboutimg{
+    /*flex-grow: 1;*/
+    width:25%;
+
+    font-family: Arial;
+    font-size: medium;
+}

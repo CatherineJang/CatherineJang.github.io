@@ -1,0 +1,30 @@
+#introContent{
+    background-color: mediumpurple;
+    text-align:center;
+    font-family: "American Typewriter";
+    padding:10px;
+}
+.homeProfile{
+    margin:auto;
+    display:block;
+    width:20%;
+    padding:15px;
+    border-radius: 100px;
+}
+
+#about{
+    background-color: rebeccapurple;
+    display:flex;
+    flex-direction: row;
+}
+
+#research{
+    background-color: purple;
+    display:flex;
+    flex-direction: row;
+}
+#writing{
+    background-color: lightpink;
+    display:flex;
+    flex-direction: row;
+}

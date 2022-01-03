@@ -1,0 +1,21 @@
+.projectarray{
+    display:flex;
+    flex-direction: column;
+    padding: 15px;
+}
+
+.projectbutton{
+    width: 50%;
+    background-color:rebeccapurple;
+    padding: 15px;
+}
+.image{
+    width:30%;
+}
+#cs{
+    order: 1;
+}
+
+#math{
+    order: 2;
+}
