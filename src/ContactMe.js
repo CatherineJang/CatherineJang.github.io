@@ -16,12 +16,16 @@ function ContactMe() {
 
     return (
         <div className="contactmepage">
+            <div className="title">
             Contact Me
-            <div>
+            </div>
+            <div className="body">
                 Email: catherinehjang@gmail.com
             </div>
             <div>
-                Social Media
+                <div className="title">
+                    Social Media
+                </div>
                 <div>
                     <button className="socialmediabutton" onClick={e => handleLinkClick("LinkedIn")}>
                         LinkedIn

@@ -2,6 +2,7 @@ import './App.css';
 import './Projects.css';
 import Navbar from "./Navbar";
 import Profile from "./CatherineJang.jpg";
+import ContactMe from "./ContactMe";
 
 function Research(props) {
     return (
@@ -14,17 +15,16 @@ function Research(props) {
                         <button className="projectbutton"><img className="image" src={Profile}></img></button>
                         <button className="projectbutton"><img className="image" src={Profile}></img></button>
                         <button className="projectbutton"><img className="image" src={Profile}></img></button>
-                        <button className="projectbutton"><img className="image" src={Profile}></img></button>
                     </div>
                     <div id={"math"}>
                         <h3>Math Projects</h3>
                         <button className="projectbutton"><img className="image" src={Profile}></img></button>
                         <button className="projectbutton"><img className="image" src={Profile}></img></button>
                         <button className="projectbutton"><img className="image" src={Profile}></img></button>
-                        <button className="projectbutton"><img className="image" src={Profile}></img></button>
                     </div>
                 </div>
             </header>
+            <ContactMe/>
         </div>
     );
 }

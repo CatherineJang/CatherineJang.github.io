@@ -12,19 +12,39 @@
     border-radius: 100px;
 }
 
+.title{
+    font-size: xx-large;
+    text-align: center;
+}
+
+.body{
+    font-size: large;
+    text-align: center;
+    padding-top: 1vw;
+    padding-left: 20vw;
+    padding-right: 20vw;
+}
+
+.more{
+    margin:1vh;
+}
+
 #about{
     background-color: rebeccapurple;
-    display:flex;
-    flex-direction: row;
+    text-align:center;
+    /*display:flex;*/
+    /*flex-direction: row;*/
 }
 
 #research{
     background-color: purple;
-    display:flex;
-    flex-direction: row;
+    text-align:center;
+    /*display:flex;*/
+    /*flex-direction: row;*/
 }
 #writing{
     background-color: lightpink;
-    display:flex;
-    flex-direction: row;
+    text-align:center;
+    /*display:flex;*/
+    /*flex-direction: row;*/
 }

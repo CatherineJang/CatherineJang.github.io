@@ -1,13 +1,16 @@
 .projectarray{
     display:flex;
     flex-direction: column;
-    padding: 15px;
+    padding: 1vw;
 }
 
 .projectbutton{
-    width: 50%;
-    background-color:rebeccapurple;
-    padding: 15px;
+    width: 30vw;
+    background-color:lightsalmon;
+    padding: 1vw;
+    text-color: white;
+    font-size: xxx-large;
+    margin:1vw;
 }
 .image{
     width:30%;
