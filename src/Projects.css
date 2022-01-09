@@ -1,15 +1,26 @@
-.projectarray{
+.titlebody{
     display:flex;
     flex-direction: column;
+}
+
+.title{
+    text-align: left;
+    padding: 1vh;
+}
+
+.projectarray{
+    display:flex;
+    flex-direction: row;
     padding: 1vw;
 }
 
 .projectbutton{
     width: 30vw;
+    height: 50vh;
     background-color:lightsalmon;
     padding: 1vw;
     text-color: white;
-    font-size: xxx-large;
+    font-size: xx-large;
     margin:1vw;
 }
 .image{

@@ -1,23 +1,62 @@
-#introContent{
+#introContent {
     background-color: mediumpurple;
-    text-align:center;
+    text-align: center;
     font-family: "American Typewriter";
-    padding:10px;
+    padding: 10px;
 }
-.homeProfile{
-    margin:auto;
-    display:block;
-    width:20%;
-    padding:15px;
+
+.homeProfile {
+    margin: auto;
+    display: block;
+    width: 20%;
+    padding: 15px;
     border-radius: 100px;
 }
 
-.title{
-    font-size: xx-large;
-    text-align: center;
+.more {
+    margin: 1vh;
+    border: none;
+    background: none;
+    font-size: medium;
+    text-decoration: underline;
 }
 
-.body{
+.more:hover {
+    color: navy;
+}
+
+.hprojectbutton {
+    width: 30vw;
+    height: 20vh;
+    background-color: lightsalmon;
+    padding: 1vw;
+    text-color: white;
+    font-size: xx-large;
+    margin: 1vw;
+}
+
+
+/* About ------------------------------------------------------------------------------------------------------------*/
+#about {
+    display: flex;
+    flex-direction: row;
+    background-color: rebeccapurple;
+}
+
+
+#mamtitle {
+    /*text properties*/
+    text-align: center;
+    font-size: xx-large;
+    /*right-side border */
+    border-width: 2px;
+    border-right: solid black;
+    /*padding title*/
+    padding: 2vw;
+    vertical-align: center;
+}
+
+#mambody {
     font-size: large;
     text-align: center;
     padding-top: 1vw;
@@ -25,26 +64,75 @@
     padding-right: 20vw;
 }
 
-.more{
-    margin:1vh;
+/* Research ---------------------------------------------------------------------------------------------------------*/
+
+#research {
+    display: flex;
+    flex-direction: row;
+    background-color: violet;
 }
 
-#about{
-    background-color: rebeccapurple;
-    text-align:center;
-    /*display:flex;*/
-    /*flex-direction: row;*/
+#rtitle {
+    flex-grow: 1;
+    font-size: xx-large;
+    text-align: center;
+    vertical-align: center;
+    border-width: 2px;
+    border-left: solid black;
+    padding: 2vw;
 }
 
-#research{
-    background-color: purple;
-    text-align:center;
-    /*display:flex;*/
-    /*flex-direction: row;*/
+#rbody {
+    flex-grow: 5;
+    font-size: large;
+    text-align: left;
+    padding-left: 1vw;
+    padding-top: 1vw;
 }
-#writing{
+
+.aresearchlinks {
+    background: none;
+    border: none;
+    font-family: inherit;
+    color: blue;
+    text-decoration: underline;
+}
+
+.aresearchlinks:hover {
+    color: darkblue;
+}
+
+.iresearchlinks {
+    background: none;
+    border: none;
+    font-family: inherit;
+    color: black;
+}
+
+/* Writing ----------------------------------------------------------------------------------------------------------*/
+
+#writing {
+    display: flex;
+    flex-direction: row;
     background-color: lightpink;
-    text-align:center;
-    /*display:flex;*/
-    /*flex-direction: row;*/
+}
+
+
+#wtitle {
+    flex-grow: 1;
+    font-size: xx-large;
+    text-align: center;
+    border-width: 2px;
+    border-right: solid black;
+    padding: 2vw;
+    vertical-align: center;
+}
+
+#wbody {
+    flex-grow: 5;
+    font-size: large;
+    text-align: center;
+    padding-top: 1vw;
+    padding-left: 20vw;
+    padding-right: 20vw;
 }

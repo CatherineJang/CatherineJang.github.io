@@ -1,25 +1,33 @@
-.contactmepage{
+.contactmepage {
     background-color: plum;
     align-items: center;
     text-align: center;
 }
 
-.socialmediabutton{
+.socialmediabutton {
     border-radius: 8px;
     font-family: Baskerville;
-    font-size:medium;
+    font-size: medium;
     background: none;
-    border:none;
+    border: none;
+    padding: 1vw;
 }
-.title{
+
+.ctitle {
+    /*border: solid blue;*/
+    /*border-width: 3px;*/
     font-size: xx-large;
     text-align: center;
 }
 
-.body{
+.cbody {
     font-size: large;
     text-align: center;
     padding-top: 1vw;
     padding-left: 20vw;
     padding-right: 20vw;
+}
+
+.smlogo {
+    width: 4vw;
 }

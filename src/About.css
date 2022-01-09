@@ -1,19 +1,24 @@
-.aboutcontent{
+.aboutcontent {
     display: flex;
     flex-direction: row;
-    padding:20px;
+    padding: 20px;
 }
-.abouttxt{
-    min-width:0;
+
+.abouttxt {
+    min-width: 0;
     vertical-align: center;
-    width:70vw;
-    padding:1vw;
+    width: 64vw;
+    height: 30vh;
+    padding-left: 1.5vw;
+    padding-top: 12vh;
+    padding-bottom: 10vh;
     font-family: Arial;
     font-size: x-large;
 }
-.aboutimg{
+
+.aboutimg {
     /*flex-grow: 1;*/
-    width:22vw;
+    width: 28vw;
     font-family: Arial;
     font-size: medium;
 }
