@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.78d95d33.css",
-    "main.js": "/static/js/main.68c3aa2c.js",
+    "main.css": "/static/css/main.6f20cb0b.css",
+    "main.js": "/static/js/main.976d2f6d.js",
     "static/js/787.b0c3c4a9.chunk.js": "/static/js/787.b0c3c4a9.chunk.js",
     "static/media/CatherineJang.jpg": "/static/media/CatherineJang.18e6b7533a0e42051ac5.jpg",
     "static/media/github.jpg": "/static/media/github.3548a7a359d7b3abe78b.jpg",
@@ -10,12 +10,12 @@
     "static/media/Catherine Jang_Resume.pdf": "/static/media/Catherine Jang_Resume.59110c5d341ca2a8a6b6.pdf",
     "static/media/NLP_Project__Detecting_East_Asian_Prejudice_on_Social_Media.pdf": "/static/media/NLP_Project__Detecting_East_Asian_Prejudice_on_Social_Media.7781d09a4ed18f913e34.pdf",
     "index.html": "/index.html",
-    "main.78d95d33.css.map": "/static/css/main.78d95d33.css.map",
-    "main.68c3aa2c.js.map": "/static/js/main.68c3aa2c.js.map",
+    "main.6f20cb0b.css.map": "/static/css/main.6f20cb0b.css.map",
+    "main.976d2f6d.js.map": "/static/js/main.976d2f6d.js.map",
     "787.b0c3c4a9.chunk.js.map": "/static/js/787.b0c3c4a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78d95d33.css",
-    "static/js/main.68c3aa2c.js"
+    "static/css/main.6f20cb0b.css",
+    "static/js/main.976d2f6d.js"
   ]
 }
